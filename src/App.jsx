@@ -1,4 +1,4 @@
-
+import { Hero, Services, SpecialOffer, Subscribe, SuperQuality, Footer, CustomerReviews, PopularProducts } from "./sections";
 
 const App = () => (
   <main className="relative">
