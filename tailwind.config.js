@@ -32,8 +32,8 @@ export default {
         '3xl': '0 10px 40px rgba(0, 0, 0, 0.1)'
       },
       backgroundImage: {
-        'hero': "url('assets/images/collection-background.svg')",
-        'card': "url('assets/images/thumbnail-background.svg')",
+        'hero': "url('assets/images/wintery-sunburst.svg')", //this changes the background big shoe in hero section
+        'card': "url('assets/images/wintery-sunburst-small.svg')", //this changes the background small three shoes in hero section
       },
       screens: {
         "wide": "1440px"
