@@ -27,7 +27,7 @@ const Hero = () => {
           <span className=' text-coral-blue inline-block mt-3 '>Branded</span> <span className=" text-4xl">Shoes</span>
         </h1>
         <p className='font-montserrat text-slate-gray text-lg leading-8 mt-6 mb-14 sm:max-w-sm'>
-          Discover stylish Nike arrivals, quality comfort, and innovation for
+          Discover stylish arrivals, quality comfort, and innovation for
           your active life.
         </p>
 

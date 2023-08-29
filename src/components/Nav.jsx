@@ -6,7 +6,7 @@ const Nav = () => {
   return (
     <header className='padding-x py-8 absolute z-10 w-full'>
       <nav className='flex justify-between items-center max-container'>
-        <a href='/'>
+        {/* <a href='/'>
           <img
             src={headerLogo}
             alt='logo'
@@ -14,7 +14,8 @@ const Nav = () => {
             height={29}
             className='m-0 w-[129px] h-[29px]'
           />
-        </a>
+        </a> */}
+        <h1 className=" text-3xl text-red-600">Sneakers</h1>
         <ul className='flex-1 flex justify-center items-center gap-16 max-lg:hidden'>
           {navLinks.map((item) => (
             <li key={item.label}>
