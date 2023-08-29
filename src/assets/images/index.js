@@ -14,7 +14,8 @@ import shoe4 from './shoe4.png'
 import shoe5 from './shoe5.png'
 import shoe6 from './shoe6.png'
 import shoe7 from './shoe7.png'
-import shoe8 from './shoe8.svg'
+//import shoe8 from './shoe8.svg'
+import shoe8 from './shoe9.jpg'
 
 import background from './wintery-sunburst.svg'
 
