@@ -20,14 +20,14 @@ const SpecialOffer = () => {
           Offer
         </h2>
         <p className='mt-4 info-text'>
-          Embark on a shopping journey that redefines your experience with
-          unbeatable deals. From premier selections to incredible savings, we
-          offer unparalleled value that sets us apart.
+        Set forth on a shopping expedition that revolutionizes the way you perceive deals. 
+        With an array of top-tier choices and astounding discounts, we present a value that is unmatched, 
+        distinguishing us from the rest.
         </p>
         <p className='mt-6 info-text'>
-          Navigate a realm of possibilities designed to fulfill your unique
-          desires, surpassing the loftiest expectations. Your journey with us is
-          nothing short of exceptional.
+        Explore a realm of boundless opportunities meticulously crafted to satisfy your individual wishes, 
+        outshining even the grandest anticipations. 
+        Your adventure in our domain is truly extraordinary, exceeding all benchmarks.
         </p>
         <div className='mt-11 flex flex-wrap gap-4'>
           <Button label='Shop now' iconURL={arrowRight} />
